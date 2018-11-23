@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on My New Hugo Site</title>
+    <title>Tags on I_LOVE_US 个人博客</title>
     <link>https://zenghuilee.github.io/tags/</link>
-    <description>Recent content in Tags on My New Hugo Site</description>
+    <description>Recent content in Tags on I_LOVE_US 个人博客</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>cn-zh</language>
+    <copyright>&amp;copy; 2018 leezenghui All Rights Reserved</copyright>
     
 	<atom:link href="https://zenghuilee.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
