@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://zenghuilee.github.io/post/20181206/</loc>
+    <lastmod>2018-12-09T21:13:44+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://zenghuilee.github.io/post/20181201/</loc>
     <lastmod>2018-12-01T12:29:30+08:00</lastmod>
   </url>
@@ -39,13 +44,13 @@
   
   <url>
     <loc>https://zenghuilee.github.io/</loc>
-    <lastmod>2018-12-01T12:29:30+08:00</lastmod>
+    <lastmod>2018-12-09T21:13:44+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://zenghuilee.github.io/post/</loc>
-    <lastmod>2018-12-01T12:29:30+08:00</lastmod>
+    <lastmod>2018-12-09T21:13:44+08:00</lastmod>
     <priority>0</priority>
   </url>
   
